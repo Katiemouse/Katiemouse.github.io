@@ -43,12 +43,12 @@ h1 {
 }
 
 main img {
- /* display: block;
+  display: block;
   width: 12rem;
   max-width: 50%;
   margin: 0 auto 1rem;
   height: auto;
-  border-radius: 50%;*/
+  border-radius: 50%;
 }
 
 main p {
