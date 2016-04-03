@@ -24,11 +24,14 @@ header p:nth-child(1) {
 }
 
 header p:nth-child(2) {
-  font-family: "Covered By Your Grace", cursive;
   margin: .5rem 0 0;
   letter-spacing: .2em;
   text-transform: uppercase;
   letter-spacing: .2em;
+}
+
+header p{
+  font-family: "Covered By Your Grace", cursive;
 }
 
 main {
