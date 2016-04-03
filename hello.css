@@ -24,6 +24,7 @@ header p:nth-child(1) {
 }
 
 header p:nth-child(2) {
+  font-family: "Covered By Your Grace", cursive;
   margin: .5rem 0 0;
   letter-spacing: .2em;
   text-transform: uppercase;
@@ -106,7 +107,7 @@ footer {
 footer img {
   height: 2rem;
   width: auto;
-  margin: 0 5px;
+  margin: 2px 3px;
   float: left;
   
 }
