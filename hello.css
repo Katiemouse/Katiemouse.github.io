@@ -61,6 +61,10 @@ h1 {
   text-align: center;
 }
 
+h2{
+	font-family: "Covered By Your Grace", cursive;
+}
+
 main img {
   display: block;
   width: 12rem;
@@ -77,20 +81,17 @@ main p {
 }
 
 main p ul {
-  width: 30rem;
-  max-width: 80%;
+  width: 70%;
   margin: 0 auto 1rem;
 }
 
 main p ul li {
-  width: 30rem;
-  max-width: 80%;
+  width: 70%;
   margin: 0 auto 1rem;
 }
 
 main p ul li ul {
-  width: 30rem;
-  max-width: 80%;
+  width: 70%;
   margin: 0 auto 1rem;
 }
 
