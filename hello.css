@@ -21,7 +21,7 @@ header p:nth-child(1) {
   font-weight: bold;
   font-size: 2rem;
   margin: auto, 20px, auto, auto;
-  padding: 2rem, 2rem, 2rem, 1rem;
+  padding: 2rem, 2rem, 2rem, auto;
 }
 
 header p:nth-child(2) {
@@ -72,8 +72,8 @@ h2{
 main img {
   display: block;
   width: 12rem;
-  max-width: 50%;
-  margin: 0 auto 1rem;
+  max-width: 60%;
+  margin: auto;
   height: auto;
   border-radius: 50%;
 }
