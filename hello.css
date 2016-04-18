@@ -89,7 +89,8 @@ main img {
   border-radius: 50%;
   padding: 10px;
   float: right;
-
+}
+  
 #rightMain img {
   display: block;
   width: 12rem;
