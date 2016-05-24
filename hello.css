@@ -54,7 +54,7 @@ main {
   background-color: white;
   color: black;
   padding: 2rem 0 4rem;
-  width:70%;
+  width:100%;
   margin: auto;
   
 }
@@ -115,27 +115,31 @@ main img {
 	clear: both;
 }
 
+#center{
+	width:70%;	
+}
+
 main p {
   width: 30rem;
-  max-width: 100%;
+  max-width: 70%;
   margin: 0 auto 1rem;
   margin: auto;
 }
 
 main p ul {
-  width: 100%;
+  width: 70%;
   margin: 0 auto 1rem;
   margin: auto;
 }
 
 main p ul li h2{
-  width: 100%;
+  width: 70%;
   margin: 0 auto 1rem;
   margin: auto;
 }
 
 main p ul li ul {
-  width: 100%;
+  width: 70%;
   margin: 0 auto 1rem;
   margin: auto;
  }
