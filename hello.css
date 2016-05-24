@@ -122,7 +122,6 @@ main img {
 main p {
   width: 30rem;
   max-width: 70%;
-  margin: 0 auto 1rem;
   margin: auto;
 }
 
